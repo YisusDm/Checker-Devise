@@ -1,0 +1,452 @@
+('C:\\Software_Develop\\Repositorios_Lenguaje\\Python\\Scripts\\Proyecto-ManageDeviceCheckerService\\build\\Main\\Main.pkg',
+ {'BINARY': True,
+  'DATA': True,
+  'EXECUTABLE': True,
+  'EXTENSION': True,
+  'PYMODULE': True,
+  'PYSOURCE': True,
+  'PYZ': False,
+  'SPLASH': True,
+  'SYMLINK': False},
+ [('pyi-contents-directory _internal', '', 'OPTION'),
+  ('PYZ-00.pyz',
+   'C:\\Software_Develop\\Repositorios_Lenguaje\\Python\\Scripts\\Proyecto-ManageDeviceCheckerService\\build\\Main\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'C:\\Software_Develop\\Repositorios_Lenguaje\\Python\\Scripts\\Proyecto-ManageDeviceCheckerService\\build\\Main\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'C:\\Software_Develop\\Repositorios_Lenguaje\\Python\\Scripts\\Proyecto-ManageDeviceCheckerService\\build\\Main\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'C:\\Software_Develop\\Repositorios_Lenguaje\\Python\\Scripts\\Proyecto-ManageDeviceCheckerService\\build\\Main\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'C:\\Software_Develop\\Repositorios_Lenguaje\\Python\\Scripts\\Proyecto-ManageDeviceCheckerService\\build\\Main\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'C:\\Software_Develop\\Repositorios_Lenguaje\\Python\\Scripts\\Proyecto-ManageDeviceCheckerService\\build\\Main\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'C:\\Users\\Jesus '
+   'Marquez\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'C:\\Users\\Jesus '
+   'Marquez\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth_cryptography_openssl',
+   'C:\\Users\\Jesus '
+   'Marquez\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\rthooks\\pyi_rth_cryptography_openssl.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgres',
+   'C:\\Users\\Jesus '
+   'Marquez\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgres.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgutil',
+   'C:\\Users\\Jesus '
+   'Marquez\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   'C:\\Users\\Jesus '
+   'Marquez\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('pyi_rth_setuptools',
+   'C:\\Users\\Jesus '
+   'Marquez\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_setuptools.py',
+   'PYSOURCE'),
+  ('Main',
+   'C:\\Software_Develop\\Repositorios_Lenguaje\\Python\\Scripts\\Proyecto-ManageDeviceCheckerService\\Main.py',
+   'PYSOURCE'),
+  ('python312.dll',
+   'C:\\Users\\Jesus '
+   'Marquez\\AppData\\Local\\Programs\\Python\\Python312\\python312.dll',
+   'BINARY'),
+  ('Cryptodome\\Hash\\_SHA384.pyd',
+   'C:\\Users\\Jesus '
+   'Marquez\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\Cryptodome\\Hash\\_SHA384.pyd',
+   'BINARY'),
+  ('Cryptodome\\Cipher\\_raw_ofb.pyd',
+   'C:\\Users\\Jesus '
+   'Marquez\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\Cryptodome\\Cipher\\_raw_ofb.pyd',
+   'BINARY'),
+  ('Cryptodome\\Hash\\_MD4.pyd',
+   'C:\\Users\\Jesus '
+   'Marquez\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\Cryptodome\\Hash\\_MD4.pyd',
+   'BINARY'),
+  ('Cryptodome\\PublicKey\\_ed25519.pyd',
+   'C:\\Users\\Jesus '
+   'Marquez\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\Cryptodome\\PublicKey\\_ed25519.pyd',
+   'BINARY'),
+  ('Cryptodome\\Hash\\_SHA224.pyd',
+   'C:\\Users\\Jesus '
+   'Marquez\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\Cryptodome\\Hash\\_SHA224.pyd',
+   'BINARY'),
+  ('Cryptodome\\Hash\\_SHA256.pyd',
+   'C:\\Users\\Jesus '
+   'Marquez\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\Cryptodome\\Hash\\_SHA256.pyd',
+   'BINARY'),
+  ('Cryptodome\\Hash\\_BLAKE2b.pyd',
+   'C:\\Users\\Jesus '
+   'Marquez\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\Cryptodome\\Hash\\_BLAKE2b.pyd',
+   'BINARY'),
+  ('Cryptodome\\Cipher\\_raw_des3.pyd',
+   'C:\\Users\\Jesus '
+   'Marquez\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\Cryptodome\\Cipher\\_raw_des3.pyd',
+   'BINARY'),
+  ('Cryptodome\\PublicKey\\_ed448.pyd',
+   'C:\\Users\\Jesus '
+   'Marquez\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\Cryptodome\\PublicKey\\_ed448.pyd',
+   'BINARY'),
+  ('Cryptodome\\Hash\\_MD5.pyd',
+   'C:\\Users\\Jesus '
+   'Marquez\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\Cryptodome\\Hash\\_MD5.pyd',
+   'BINARY'),
+  ('Cryptodome\\Cipher\\_raw_cbc.pyd',
+   'C:\\Users\\Jesus '
+   'Marquez\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\Cryptodome\\Cipher\\_raw_cbc.pyd',
+   'BINARY'),
+  ('Cryptodome\\PublicKey\\_curve448.pyd',
+   'C:\\Users\\Jesus '
+   'Marquez\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\Cryptodome\\PublicKey\\_curve448.pyd',
+   'BINARY'),
+  ('Cryptodome\\Cipher\\_raw_aes.pyd',
+   'C:\\Users\\Jesus '
+   'Marquez\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\Cryptodome\\Cipher\\_raw_aes.pyd',
+   'BINARY'),
+  ('Cryptodome\\Cipher\\_raw_ctr.pyd',
+   'C:\\Users\\Jesus '
+   'Marquez\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\Cryptodome\\Cipher\\_raw_ctr.pyd',
+   'BINARY'),
+  ('Cryptodome\\Hash\\_BLAKE2s.pyd',
+   'C:\\Users\\Jesus '
+   'Marquez\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\Cryptodome\\Hash\\_BLAKE2s.pyd',
+   'BINARY'),
+  ('Cryptodome\\Cipher\\_raw_blowfish.pyd',
+   'C:\\Users\\Jesus '
+   'Marquez\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\Cryptodome\\Cipher\\_raw_blowfish.pyd',
+   'BINARY'),
+  ('Cryptodome\\PublicKey\\_ec_ws.pyd',
+   'C:\\Users\\Jesus '
+   'Marquez\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\Cryptodome\\PublicKey\\_ec_ws.pyd',
+   'BINARY'),
+  ('Cryptodome\\Cipher\\_chacha20.pyd',
+   'C:\\Users\\Jesus '
+   'Marquez\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\Cryptodome\\Cipher\\_chacha20.pyd',
+   'BINARY'),
+  ('Cryptodome\\Hash\\_SHA512.pyd',
+   'C:\\Users\\Jesus '
+   'Marquez\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\Cryptodome\\Hash\\_SHA512.pyd',
+   'BINARY'),
+  ('Cryptodome\\Math\\_modexp.pyd',
+   'C:\\Users\\Jesus '
+   'Marquez\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\Cryptodome\\Math\\_modexp.pyd',
+   'BINARY'),
+  ('Cryptodome\\Cipher\\_raw_ocb.pyd',
+   'C:\\Users\\Jesus '
+   'Marquez\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\Cryptodome\\Cipher\\_raw_ocb.pyd',
+   'BINARY'),
+  ('Cryptodome\\Cipher\\_raw_aesni.pyd',
+   'C:\\Users\\Jesus '
+   'Marquez\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\Cryptodome\\Cipher\\_raw_aesni.pyd',
+   'BINARY'),
+  ('Cryptodome\\Hash\\_MD2.pyd',
+   'C:\\Users\\Jesus '
+   'Marquez\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\Cryptodome\\Hash\\_MD2.pyd',
+   'BINARY'),
+  ('Cryptodome\\Hash\\_keccak.pyd',
+   'C:\\Users\\Jesus '
+   'Marquez\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\Cryptodome\\Hash\\_keccak.pyd',
+   'BINARY'),
+  ('Cryptodome\\Hash\\_ghash_clmul.pyd',
+   'C:\\Users\\Jesus '
+   'Marquez\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\Cryptodome\\Hash\\_ghash_clmul.pyd',
+   'BINARY'),
+  ('Cryptodome\\Cipher\\_ARC4.pyd',
+   'C:\\Users\\Jesus '
+   'Marquez\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\Cryptodome\\Cipher\\_ARC4.pyd',
+   'BINARY'),
+  ('Cryptodome\\Cipher\\_raw_eksblowfish.pyd',
+   'C:\\Users\\Jesus '
+   'Marquez\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\Cryptodome\\Cipher\\_raw_eksblowfish.pyd',
+   'BINARY'),
+  ('Cryptodome\\Hash\\_RIPEMD160.pyd',
+   'C:\\Users\\Jesus '
+   'Marquez\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\Cryptodome\\Hash\\_RIPEMD160.pyd',
+   'BINARY'),
+  ('Cryptodome\\Cipher\\_raw_cast.pyd',
+   'C:\\Users\\Jesus '
+   'Marquez\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\Cryptodome\\Cipher\\_raw_cast.pyd',
+   'BINARY'),
+  ('Cryptodome\\Cipher\\_raw_des.pyd',
+   'C:\\Users\\Jesus '
+   'Marquez\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\Cryptodome\\Cipher\\_raw_des.pyd',
+   'BINARY'),
+  ('Cryptodome\\Cipher\\_raw_cfb.pyd',
+   'C:\\Users\\Jesus '
+   'Marquez\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\Cryptodome\\Cipher\\_raw_cfb.pyd',
+   'BINARY'),
+  ('Cryptodome\\Hash\\_SHA1.pyd',
+   'C:\\Users\\Jesus '
+   'Marquez\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\Cryptodome\\Hash\\_SHA1.pyd',
+   'BINARY'),
+  ('Cryptodome\\Util\\_cpuid_c.pyd',
+   'C:\\Users\\Jesus '
+   'Marquez\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\Cryptodome\\Util\\_cpuid_c.pyd',
+   'BINARY'),
+  ('Cryptodome\\Hash\\_ghash_portable.pyd',
+   'C:\\Users\\Jesus '
+   'Marquez\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\Cryptodome\\Hash\\_ghash_portable.pyd',
+   'BINARY'),
+  ('Cryptodome\\Cipher\\_raw_ecb.pyd',
+   'C:\\Users\\Jesus '
+   'Marquez\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\Cryptodome\\Cipher\\_raw_ecb.pyd',
+   'BINARY'),
+  ('Cryptodome\\Util\\_strxor.pyd',
+   'C:\\Users\\Jesus '
+   'Marquez\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\Cryptodome\\Util\\_strxor.pyd',
+   'BINARY'),
+  ('Cryptodome\\Cipher\\_raw_arc2.pyd',
+   'C:\\Users\\Jesus '
+   'Marquez\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\Cryptodome\\Cipher\\_raw_arc2.pyd',
+   'BINARY'),
+  ('Cryptodome\\Hash\\_poly1305.pyd',
+   'C:\\Users\\Jesus '
+   'Marquez\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\Cryptodome\\Hash\\_poly1305.pyd',
+   'BINARY'),
+  ('Cryptodome\\Cipher\\_Salsa20.pyd',
+   'C:\\Users\\Jesus '
+   'Marquez\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\Cryptodome\\Cipher\\_Salsa20.pyd',
+   'BINARY'),
+  ('Cryptodome\\Protocol\\_scrypt.pyd',
+   'C:\\Users\\Jesus '
+   'Marquez\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\Cryptodome\\Protocol\\_scrypt.pyd',
+   'BINARY'),
+  ('Cryptodome\\PublicKey\\_curve25519.pyd',
+   'C:\\Users\\Jesus '
+   'Marquez\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\Cryptodome\\PublicKey\\_curve25519.pyd',
+   'BINARY'),
+  ('Cryptodome\\Cipher\\_pkcs1_decode.pyd',
+   'C:\\Users\\Jesus '
+   'Marquez\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\Cryptodome\\Cipher\\_pkcs1_decode.pyd',
+   'BINARY'),
+  ('_decimal.pyd',
+   'C:\\Users\\Jesus '
+   'Marquez\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\_decimal.pyd',
+   'EXTENSION'),
+  ('_hashlib.pyd',
+   'C:\\Users\\Jesus '
+   'Marquez\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('unicodedata.pyd',
+   'C:\\Users\\Jesus '
+   'Marquez\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('select.pyd',
+   'C:\\Users\\Jesus '
+   'Marquez\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\select.pyd',
+   'EXTENSION'),
+  ('_socket.pyd',
+   'C:\\Users\\Jesus '
+   'Marquez\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('_lzma.pyd',
+   'C:\\Users\\Jesus '
+   'Marquez\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\_lzma.pyd',
+   'EXTENSION'),
+  ('_bz2.pyd',
+   'C:\\Users\\Jesus '
+   'Marquez\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\_bz2.pyd',
+   'EXTENSION'),
+  ('_queue.pyd',
+   'C:\\Users\\Jesus '
+   'Marquez\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\_queue.pyd',
+   'EXTENSION'),
+  ('_wmi.pyd',
+   'C:\\Users\\Jesus '
+   'Marquez\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\_wmi.pyd',
+   'EXTENSION'),
+  ('_overlapped.pyd',
+   'C:\\Users\\Jesus '
+   'Marquez\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\_overlapped.pyd',
+   'EXTENSION'),
+  ('_ssl.pyd',
+   'C:\\Users\\Jesus '
+   'Marquez\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\_ssl.pyd',
+   'EXTENSION'),
+  ('_asyncio.pyd',
+   'C:\\Users\\Jesus '
+   'Marquez\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\_asyncio.pyd',
+   'EXTENSION'),
+  ('_ctypes.pyd',
+   'C:\\Users\\Jesus '
+   'Marquez\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\_ctypes.pyd',
+   'EXTENSION'),
+  ('_multiprocessing.pyd',
+   'C:\\Users\\Jesus '
+   'Marquez\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\_multiprocessing.pyd',
+   'EXTENSION'),
+  ('pyexpat.pyd',
+   'C:\\Users\\Jesus '
+   'Marquez\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\pyexpat.pyd',
+   'EXTENSION'),
+  ('_uuid.pyd',
+   'C:\\Users\\Jesus '
+   'Marquez\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\_uuid.pyd',
+   'EXTENSION'),
+  ('cryptography\\hazmat\\bindings\\_rust.pyd',
+   'C:\\Users\\Jesus '
+   'Marquez\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\cryptography\\hazmat\\bindings\\_rust.pyd',
+   'EXTENSION'),
+  ('_cffi_backend.cp312-win_amd64.pyd',
+   'C:\\Users\\Jesus '
+   'Marquez\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\_cffi_backend.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('charset_normalizer\\md__mypyc.cp312-win_amd64.pyd',
+   'C:\\Users\\Jesus '
+   'Marquez\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\charset_normalizer\\md__mypyc.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('charset_normalizer\\md.cp312-win_amd64.pyd',
+   'C:\\Users\\Jesus '
+   'Marquez\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\charset_normalizer\\md.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('yaml\\_yaml.cp312-win_amd64.pyd',
+   'C:\\Users\\Jesus '
+   'Marquez\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\yaml\\_yaml.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('VCRUNTIME140.dll',
+   'C:\\Users\\Jesus '
+   'Marquez\\AppData\\Local\\Programs\\Python\\Python312\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('libcrypto-3.dll',
+   'C:\\Users\\Jesus '
+   'Marquez\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\libcrypto-3.dll',
+   'BINARY'),
+  ('VCRUNTIME140_1.dll',
+   'C:\\Users\\Jesus '
+   'Marquez\\AppData\\Local\\Programs\\Python\\Python312\\VCRUNTIME140_1.dll',
+   'BINARY'),
+  ('libssl-3.dll',
+   'C:\\Users\\Jesus '
+   'Marquez\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\libssl-3.dll',
+   'BINARY'),
+  ('libffi-8.dll',
+   'C:\\Users\\Jesus '
+   'Marquez\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\libffi-8.dll',
+   'BINARY'),
+  ('python3.dll',
+   'C:\\Users\\Jesus '
+   'Marquez\\AppData\\Local\\Programs\\Python\\Python312\\python3.dll',
+   'BINARY'),
+  ('base_library.zip',
+   'C:\\Software_Develop\\Repositorios_Lenguaje\\Python\\Scripts\\Proyecto-ManageDeviceCheckerService\\build\\Main\\base_library.zip',
+   'DATA'),
+  ('cryptography-43.0.1.dist-info\\license_files\\LICENSE.APACHE',
+   'C:\\Users\\Jesus '
+   'Marquez\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\cryptography-43.0.1.dist-info\\license_files\\LICENSE.APACHE',
+   'DATA'),
+  ('cryptography-43.0.1.dist-info\\license_files\\LICENSE.BSD',
+   'C:\\Users\\Jesus '
+   'Marquez\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\cryptography-43.0.1.dist-info\\license_files\\LICENSE.BSD',
+   'DATA'),
+  ('cryptography-43.0.1.dist-info\\WHEEL',
+   'C:\\Users\\Jesus '
+   'Marquez\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\cryptography-43.0.1.dist-info\\WHEEL',
+   'DATA'),
+  ('cryptography-43.0.1.dist-info\\license_files\\LICENSE',
+   'C:\\Users\\Jesus '
+   'Marquez\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\cryptography-43.0.1.dist-info\\license_files\\LICENSE',
+   'DATA'),
+  ('cryptography-43.0.1.dist-info\\REQUESTED',
+   'C:\\Users\\Jesus '
+   'Marquez\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\cryptography-43.0.1.dist-info\\REQUESTED',
+   'DATA'),
+  ('cryptography-43.0.1.dist-info\\INSTALLER',
+   'C:\\Users\\Jesus '
+   'Marquez\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\cryptography-43.0.1.dist-info\\INSTALLER',
+   'DATA'),
+  ('cryptography-43.0.1.dist-info\\METADATA',
+   'C:\\Users\\Jesus '
+   'Marquez\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\cryptography-43.0.1.dist-info\\METADATA',
+   'DATA'),
+  ('cryptography-43.0.1.dist-info\\RECORD',
+   'C:\\Users\\Jesus '
+   'Marquez\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\cryptography-43.0.1.dist-info\\RECORD',
+   'DATA'),
+  ('setuptools\\_vendor\\jaraco\\text\\Lorem ipsum.txt',
+   'C:\\Users\\Jesus '
+   'Marquez\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\jaraco\\text\\Lorem '
+   'ipsum.txt',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\WHEEL',
+   'C:\\Users\\Jesus '
+   'Marquez\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\WHEEL',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\METADATA',
+   'C:\\Users\\Jesus '
+   'Marquez\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\METADATA',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\INSTALLER',
+   'C:\\Users\\Jesus '
+   'Marquez\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\INSTALLER',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\REQUESTED',
+   'C:\\Users\\Jesus '
+   'Marquez\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\REQUESTED',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\LICENSE',
+   'C:\\Users\\Jesus '
+   'Marquez\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\LICENSE',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\top_level.txt',
+   'C:\\Users\\Jesus '
+   'Marquez\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\top_level.txt',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\RECORD',
+   'C:\\Users\\Jesus '
+   'Marquez\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\RECORD',
+   'DATA'),
+  ('certifi\\cacert.pem',
+   'C:\\Users\\Jesus '
+   'Marquez\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\certifi\\cacert.pem',
+   'DATA'),
+  ('certifi\\py.typed',
+   'C:\\Users\\Jesus '
+   'Marquez\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\certifi\\py.typed',
+   'DATA'),
+  ('setuptools\\_vendor\\wheel-0.43.0.dist-info\\RECORD',
+   'C:\\Users\\Jesus '
+   'Marquez\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\wheel-0.43.0.dist-info\\RECORD',
+   'DATA'),
+  ('setuptools\\_vendor\\wheel-0.43.0.dist-info\\METADATA',
+   'C:\\Users\\Jesus '
+   'Marquez\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\wheel-0.43.0.dist-info\\METADATA',
+   'DATA'),
+  ('setuptools\\_vendor\\wheel-0.43.0.dist-info\\WHEEL',
+   'C:\\Users\\Jesus '
+   'Marquez\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\wheel-0.43.0.dist-info\\WHEEL',
+   'DATA'),
+  ('setuptools\\_vendor\\wheel-0.43.0.dist-info\\INSTALLER',
+   'C:\\Users\\Jesus '
+   'Marquez\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\wheel-0.43.0.dist-info\\INSTALLER',
+   'DATA'),
+  ('setuptools\\_vendor\\wheel-0.43.0.dist-info\\entry_points.txt',
+   'C:\\Users\\Jesus '
+   'Marquez\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\wheel-0.43.0.dist-info\\entry_points.txt',
+   'DATA'),
+  ('setuptools\\_vendor\\wheel-0.43.0.dist-info\\LICENSE.txt',
+   'C:\\Users\\Jesus '
+   'Marquez\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\wheel-0.43.0.dist-info\\LICENSE.txt',
+   'DATA'),
+  ('setuptools\\_vendor\\wheel-0.43.0.dist-info\\REQUESTED',
+   'C:\\Users\\Jesus '
+   'Marquez\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\wheel-0.43.0.dist-info\\REQUESTED',
+   'DATA')],
+ 'python312.dll',
+ False,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)

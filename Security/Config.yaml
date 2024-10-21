@@ -1,0 +1,83 @@
+dns_servers:
+  - 192.168.0.2
+  - 8.8.8.8
+  - 1.1.1.1
+
+ports:
+  - 3389
+  - 8080
+
+rdp_processes: 
+ - TeamViewer
+ - TeamViewer_Service
+ - AnyDesk
+ - mstsc
+ - rdpclip
+ - tvnserver
+ - vncserver
+ - vncviewer
+ - LogMeIn
+ - LogMeInSystray
+ - chromoting
+ - termsrv
+ - rdpinit
+ - rdpclip
+ - AA_v3
+ - AA_v4
+ - g2tray
+ - g2comm
+ - SRService
+ - winvnc
+ - vncviewer
+ - rutserv
+ - rutview
+ - nxserver
+ - ZohoAssist
+ - dwagent
+
+other_processes: 
+  - explorer
+  - svchost
+  - csrss
+  - winlogon
+  - services
+  - taskhostw
+  - lsass
+  - dwm
+  - spoolsv
+
+
+antivirus_processes:
+  - MsMpEng
+  - MpCmdRun
+  - AvastSvc
+  - AvastUI
+  - avgsvc
+  - avgui
+  - mcshield
+  - mfemms
+  - McAfeeDLP
+  - avp
+  - klnagent
+  - NortonSecurity
+  - NSWSCService
+  - vsserv
+  - updatesrv
+  - ekrn
+  - egui
+  - SophosUI
+  - SophosD
+  - PavFnSvr
+  - PSANHost
+  - UfSeAgnt
+  - TmProxy
+  
+firewall_rules:
+  - inbound:
+    - TCP
+    - UDP
+    - ICMP
+    - ICMPv6
+
+
+

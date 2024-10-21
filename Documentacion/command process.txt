@@ -1,0 +1,9 @@
+Si quieres ver el proceso del navegado
+	Get-Process -Name Chrome
+Si deseas obtener información de más de un proceso
+	Get-Process -Name chrome, explorer
+para mostrar solo ciertas propiedades del proceso
+	Get-Process -Name chrome | Select-Object Id, ProcessName
+	Get-Process -Name chrome | Select-Object Name, Id, Path, Company
+
+

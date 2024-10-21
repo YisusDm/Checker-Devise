@@ -1,0 +1,12 @@
+{
+    "Id_property":"b79441db-74c1-4383-af5e-37abc441adba",
+    "keys_folder":"Keys",
+    "zipp_folder_name":"ProtectecKeys",
+    "zipp_folder_password":"A1b2345",
+    "file_Configurations":"Config.yaml",
+    "folder_logs":"Log",
+    "file_managed": "Netskopemanaged.txt",
+    "file_unmanaged": "UnmanagedDevice.txt",
+    "Url_Api":"http://localhost:5000/insert"
+
+}

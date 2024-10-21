@@ -1,0 +1,10 @@
+python ManageDeviceCheckerService.py install
+python ManageDeviceCheckerService.py update
+python ManageDeviceCheckerService.py remove
+python ManageDeviceCheckerService.py start
+python ManageDeviceCheckerService.py stop
+python ManageDeviceChecker.py stop --wait 10
+python ManageDeviceCheckerService.py restart
+python ManageDeviceCheckerService.py debug
+
+
